@@ -8,15 +8,15 @@ monthly_challenges ={
     "january":"Eat no meat in the entire month!",
     "february":"Walk for at least 20 minutes every day!",
     "march":"Learn Django at least 20 minutes every day!",
-    "april":"Eat no meat in the entire month!",
-    "may":"Walk for at least 20 minutes every day!",
-    "june":"Learn Django at least 20 minutes every day!",
-    "july":"Eat no meat in the entire month!",
-    "august":"Walk for at least 20 minutes every day!",
-    "september":"Learn Django at least 20 minutes every day!",
-    "october":"Eat no meat in the entire month!",
-    "november":"Walk for at least 20 minutes every day!",
-    "december":"Learn Django at least 20 minutes every day!"
+    "april":"Drink at least 3 liter of water each day!",
+    "may":"Learn something new every day!",
+    "june":"Practise Spanish at least 10 minutes a day!",
+    "july":"Do not consume sugar for the entire month!",
+    "august":"Read a book at least 10 pages in each day!",
+    "september":"Do not consume milk for the entire month!",
+    "october":"Wake up at 5 am every day!",
+    "november":"Do not eat after 5 pm for each day!",
+    "december":"Keep a journal throughout the entire month!"
 }
 # Create your views here.
 def index(request):

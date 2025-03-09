@@ -16,7 +16,7 @@ monthly_challenges ={
     "september":"Do not consume milk for the entire month!",
     "october":"Wake up at 5 am every day!",
     "november":"Do not eat after 5 pm for each day!",
-    "december":"Keep a journal throughout the entire month!"
+    "december": None
 }
 # Create your views here.
 def index(request):
